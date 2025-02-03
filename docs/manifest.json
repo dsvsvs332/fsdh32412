@@ -1,0 +1,17 @@
+{
+  "name": "Passcode App",
+  "short_name": "Passcode",
+  "description": "A simple passcode entry app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
+
