@@ -4,6 +4,8 @@
   "description": "Дiя",
   "start_url": "/fsdh32412/",
   "display": "standalone",
+  "theme_color": "#7bc8c0",
+  "background_color": "#7bc8c0",
   "icons": [
     {
       "src": "/fsdh32412/icon.png",
